@@ -1,0 +1,17 @@
+exercise,equipment_type,gender,min_age,max_age,ratio
+chest,barbell,male,18,39,1.0
+chest,barbell,female,18,39,0.8
+chest,dumbbell,male,18,39,0.5
+chest,dumbbell,female,18,39,0.4
+back,barbell,male,18,39,1.05
+back,barbell,female,18,39,0.85
+shoulders,barbell,male,18,39,0.7
+shoulders,barbell,female,18,39,0.6
+biceps,barbell,male,18,39,0.45
+biceps,barbell,female,18,39,0.4
+triceps,barbell,male,18,39,0.4
+triceps,barbell,female,18,39,0.35
+legs_squat,barbell,male,18,39,1.75
+legs_squat,barbell,female,18,39,1.5
+legs_deadlift,barbell,male,18,39,2.0
+legs_deadlift,barbell,female,18,39,1.8
