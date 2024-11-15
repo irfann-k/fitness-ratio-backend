@@ -21,5 +21,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('strength_ratios.urls')),
+    path('api/calculate/', include('strength_ratios.urls'),),
+    path('api/recommender/', include('recommender.urls'),),
 ]
+ 
